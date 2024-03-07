@@ -6,9 +6,9 @@ This application serves as a promotional website for various types of articles. 
 
 ## Design
 
-![intro](https://github.com/pfrito/Net-Ninja-Pro-the-Book/tree/main/assets/intro-image.png)
-![pricing](https://github.com/pfrito/Net-Ninja-Pro-the-Book/tree/main/assets/pricing-plans.jpg)
-![details](https://github.com/pfrito/Net-Ninja-Pro-the-Book/tree/main/assets/book-details.jpg)
+![intro](assets/intro-image.png)
+![pricing](assets/pricing-plans.jpg)
+![details](assets/book-details.jpg)
 
 ## Build Setup
 
