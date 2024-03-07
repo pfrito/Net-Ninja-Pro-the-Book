@@ -1,0 +1,22 @@
+{
+  "name": "net-ninja-pro-the-book",
+  "version": "1.0.0",
+  "description": "just a bunch of Bootstrap stuffs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfrito/Net-Ninja-Pro-the-Book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfrito/Net-Ninja-Pro-the-Book/issues"
+  },
+  "homepage": "https://github.com/pfrito/Net-Ninja-Pro-the-Book#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
