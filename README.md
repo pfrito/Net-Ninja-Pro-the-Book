@@ -1,8 +1,7 @@
 # Net Ninja Pro - the Book
 ## Description
 
-This application serves as a promotional website for various types of articles. The main idea is to implement several of the tools provided by Bootstrap 5.
-**Hope it helps!**
+A website to promote books or various articles, made with HTML, CSS and Bootstrap 5. Has a lot of cool features that Bootstrap provides, **hope you enjoy it!**
 
 ## Design
 
