@@ -9,13 +9,6 @@ A website to promote books or various articles, made with HTML, CSS and Bootstra
 ![pricing](assets/pricing-plans.jpg)
 ![details](assets/book-details.jpg)
 
-## Build Setup
-
-```bash
-# install dependencies
-$ npm install
-```
-
 ## Contribution
 
 To contribute to this project please check out the [contribution guidelines](https://github.com/YurisCodingClub/accessibility-mentor/blob/main/CONTRIBUTING.md).
